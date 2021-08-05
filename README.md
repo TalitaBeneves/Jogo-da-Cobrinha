@@ -1,4 +1,4 @@
-jogo da cobrinha com JavaScript utilizando HTML, CSS e JavaScript.
+jogo da cobrinha, utilizando HTML, CSS e JavaScript.
 
 <div align="center"><img src="/img/img1.jpeg" width="700px" /></div>
 
